@@ -1,5 +1,7 @@
 AI in Video Games
 > Presentation by Max Zhang
+https://docs.google.com/presentation/d/1obqCDoOAow1sgE_ZoCfYlibCCxuE7ojKzfHU-a9UyyI/edit?slide=id.g3e7f0f034f0_0_0#slide=id.g3e7f0f034f0_0_0
+
 
 **Overview**
 
