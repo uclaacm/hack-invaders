@@ -2,6 +2,8 @@
 
 A small Python script that turns a photo of a receipt into structured JSON using Google's Gemini API. Pass an image path, get back structured data.
 
+Slides Link: https://docs.google.com/presentation/d/1i3tRTKLffDnHAPCFMsqDZ6ZE98VjGSvuYvPgaIT61kQ/
+
 ## What You'll Learn
 
 - How to send images to the Gemini API
