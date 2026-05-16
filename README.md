@@ -9,7 +9,7 @@ Welcome to **Hack Invaders**! Over the course of this event, you'll team up, pic
 ## 🗂️ Workshops
 
 Work through these workshops to build up your skills before (or during) the hackathon. Each one is self-contained and builds toward a fully AI-enhanced game.
-[Here is the link to the videos!](https://drive.google.com/drive/folders/1STLgY1y1NV_jBalgnHdEBUb3YvJ47s51) 
+[Here is the link to the VIDEOS!](https://www.youtube.com/playlist?list=PLPO7_kXilXFZpAXwjpIyyXeDVti4fWXBM) 
 
 ---
 
